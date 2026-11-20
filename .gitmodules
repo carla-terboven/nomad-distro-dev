@@ -1,3 +1,18 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/hzb-combinatorial-libraries"]
+	path = packages/hzb-combinatorial-libraries
+	url = https://github.com/nomad-hzb/hzb-combinatorial-libraries-plugin.git
+[submodule "packages/baseclasses"]
+	path = packages/baseclasses
+	url = https://github.com/nomad-hzb/nomad-baseclasses.git
+[submodule "packages/nomad-hysprint"]
+	path = packages/nomad-hysprint
+	url = https://github.com/nomad-hzb/nomad-hysprint.git
+[submodule "packages/nomad-hzb-emil"]
+	path = packages/nomad-hzb-emil
+	url = https://github.com/nomad-hzb/nomad-hzb-emil.git
+[submodule "packages/nomad-chemical-energy"]
+	path = packages/nomad-chemical-energy
+	url = https://github.com/nomad-hzb/nomad-chemical-energy.git
